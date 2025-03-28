@@ -693,3 +693,82 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 03:31:09.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
 [28Mar2025 03:31:14.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to DarkJunior]
 [28Mar2025 03:31:37.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[28Mar2025 03:32:18.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 17.5 damage to DarkJunior]
+[28Mar2025 03:32:41.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 17.5 damage to edinson123pro]
+[28Mar2025 03:32:55.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Isn't It Iron Pick]
+[28Mar2025 03:33:15.753] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14246, l='ServerLevel[world]', x=112.50, y=72.00, z=-320.50]
+[28Mar2025 03:33:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to edinson123pro]
+[28Mar2025 03:33:47.453] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14772, l='ServerLevel[world]', x=61.50, y=78.00, z=-264.50]
+[28Mar2025 03:34:17.901] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15146, l='ServerLevel[world]', x=73.50, y=81.00, z=-277.50]
+[28Mar2025 03:34:35.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to DarkJunior]
+[28Mar2025 03:34:38.454] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15252, l='ServerLevel[world]', x=138.50, y=74.00, z=-311.50]
+[28Mar2025 03:34:40.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15285, l='ServerLevel[world]', x=57.50, y=72.00, z=-323.50]
+[28Mar2025 03:34:48.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Who You Gonna Call?]
+[28Mar2025 03:34:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [A Strange Grave Dust]
+[28Mar2025 03:35:15.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to DarkJunior]
+[28Mar2025 03:35:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[28Mar2025 03:35:53.149] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15952, l='ServerLevel[world]', x=57.50, y=72.00, z=-324.50]
+[28Mar2025 03:36:03.852] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16045, l='ServerLevel[world]', x=135.50, y=76.00, z=-303.50]
+[28Mar2025 03:36:10.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[28Mar2025 03:36:18.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> 279 69 -354
+[28Mar2025 03:36:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to DarkJunior]
+[28Mar2025 03:36:27.952] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16335, l='ServerLevel[world]', x=53.50, y=74.00, z=-307.50]
+[28Mar2025 03:36:34.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to DarkJunior]
+[28Mar2025 03:36:45.748] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16529, l='ServerLevel[world]', x=128.50, y=71.00, z=-318.50]
+[28Mar2025 03:36:56.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[28Mar2025 03:37:01.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[28Mar2025 03:37:07.403] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16766, l='ServerLevel[world]', x=43.50, y=69.00, z=-320.50]
+[28Mar2025 03:37:09.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[28Mar2025 03:37:13.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16797, l='ServerLevel[world]', x=37.50, y=71.00, z=-297.50]
+[28Mar2025 03:37:29.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior was slain by Deepling Brute
+[28Mar2025 03:37:29.278] [Server thread/INFO] [tombstone/]: The player DarkJunior has successfully been saved
+[28Mar2025 03:37:30.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[28Mar2025 03:37:34.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/14860, l='ServerLevel[world]', x=204.51, y=62.94, z=28.50] died, message: 'Butcher was slain by Ghost'
+[28Mar2025 03:37:40.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17356, l='ServerLevel[world]', x=137.50, y=76.00, z=-304.50]
+[28Mar2025 03:37:55.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to DarkJunior]
+[28Mar2025 03:37:56.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was slain by Ghost
+[28Mar2025 03:37:56.890] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[28Mar2025 03:38:08.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17712, l='ServerLevel[world]', x=55.50, y=74.00, z=-305.50]
+[28Mar2025 03:38:17.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to DarkJunior]
+[28Mar2025 03:38:22.540] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17810, l='ServerLevel[world]', x=54.50, y=72.00, z=-294.50]
+[28Mar2025 03:38:43.165] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[28Mar2025 03:38:43.802] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18089, l='ServerLevel[world]', x=44.50, y=69.00, z=-322.50]
+[28Mar2025 03:38:44.145] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
+[28Mar2025 03:38:44.146] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
+[28Mar2025 03:38:44.146] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
+[28Mar2025 03:38:44.147] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
+[28Mar2025 03:38:44.147] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
+[28Mar2025 03:38:44.147] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
+[28Mar2025 03:38:44.148] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
+[28Mar2025 03:38:44.148] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}
+[28Mar2025 03:38:44.156] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[28Mar2025 03:38:48.501] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18135, l='ServerLevel[world]', x=54.50, y=72.00, z=-295.50]
+[28Mar2025 03:38:50.802] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18159, l='ServerLevel[world]', x=37.50, y=71.00, z=-298.50]
+[28Mar2025 03:39:04.965] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18240, l='ServerLevel[world]', x=55.50, y=73.00, z=-280.50]
+[28Mar2025 03:39:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Monster Hunter]
+[28Mar2025 03:39:12.650] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18325, l='ServerLevel[world]', x=56.50, y=73.00, z=-280.50]
+[28Mar2025 03:39:18.071] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
+[28Mar2025 03:39:18.071] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
+[28Mar2025 03:39:18.071] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
+[28Mar2025 03:39:18.072] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
+[28Mar2025 03:39:18.072] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
+[28Mar2025 03:39:21.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkJunior moved too quickly! 0.3008993460500591,1.8245064281320538,-10.597332279684792
+[28Mar2025 03:39:21.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[28Mar2025 03:39:48.842] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[28Mar2025 03:39:48.842] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[28Mar2025 03:39:48.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Speed to DarkJunior]
+[28Mar2025 03:39:59.429] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/14368, l='ServerLevel[world]', x=236.30, y=63.12, z=-6.23] died, message: 'Cleric was slain by Zombie'
+[28Mar2025 03:40:16.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior liquified to Fanta juice
+[28Mar2025 03:40:16.739] [Server thread/INFO] [tombstone/]: The player DarkJunior has successfully been saved
+[28Mar2025 03:40:57.050] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20370, l='ServerLevel[world]', x=73.50, y=81.00, z=-279.50]
+[28Mar2025 03:40:57.399] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20371, l='ServerLevel[world]', x=137.50, y=76.00, z=-305.50]
+[28Mar2025 03:40:58.352] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20378, l='ServerLevel[world]', x=113.50, y=72.00, z=-321.50]
+[28Mar2025 03:41:09.449] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20552, l='ServerLevel[world]', x=55.50, y=73.00, z=-278.50]
+[28Mar2025 03:41:25.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to DarkJunior]
+[28Mar2025 03:41:41.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to DarkJunior]
+[28Mar2025 03:41:50.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to DarkJunior]
+[28Mar2025 03:41:52.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 1.5 damage to DarkJunior]
+[28Mar2025 03:42:20.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Ambush]
+[28Mar2025 03:42:20.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Monster Hunter]
+[28Mar2025 03:42:59.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Ashes 'n Bones]
+[28Mar2025 03:43:00.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported DarkJunior to edinson123pro]
