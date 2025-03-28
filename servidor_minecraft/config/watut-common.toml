@@ -4,6 +4,6 @@
 	#-
 	announceIdleStatesInChat = false
 	#Default 5 minutes
-	#Range: > -2147483648
+	#Range: > 0
 	ticksToMarkPlayerIdle = 6000
 
